@@ -1,5 +1,5 @@
 # lets-git-it
 
-deleted
+deleted added
 
 in test branch
