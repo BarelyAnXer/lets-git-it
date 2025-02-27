@@ -3,4 +3,8 @@ Main branch change
 =======
 First commit
 Second commit
+<<<<<<< HEAD
 >>>>>>> 1b8e609 (feat: second commit in feature-branch)
+=======
+Third commit
+>>>>>>> 44591ae (feat: third commit in feature-branch)
