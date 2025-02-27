@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Main branch change
+=======
+First commit
+Second commit
+>>>>>>> 1b8e609 (feat: second commit in feature-branch)
